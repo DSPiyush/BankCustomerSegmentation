@@ -19,3 +19,5 @@ pip install numpy
 
 pip install scipy
 
+Here is the Visualisation part of the project
+https://public.tableau.com/app/profile/shriyash.sonawane/viz/Bank_customer_segmentation1/Dashboard1 
